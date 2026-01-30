@@ -1,0 +1,9 @@
+{
+  "name": "utv-google-drive-index",
+  "compatibility_date": "2026-01-30",
+  "main": "worker/index.js",
+  "assets": {
+    "directory": "./"
+  },
+  "routes": []
+}
