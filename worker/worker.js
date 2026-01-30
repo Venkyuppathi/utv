@@ -2,9 +2,9 @@ const authConfig = {
   "siteName": "Google Drive Index", 
   "siteIcon": "https://raw.githubusercontent.com/sawankumar/Google-Drive-Index/master/images/favicon.png",
   "version": "4.28",
-  "client_id": "",
-  "client_secret": "",
-  "refresh_token": "", // Authorization token
+  "client_id": "243845514451-ubuak2u5ptrhsqg72ddo66ng4dh2720e.apps.googleusercontent.com",
+  "client_secret": "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",
+  "refresh_token": "1//04APBHsvWj-JwCgYIARAAGAQSNwF-L9IrlWTLQTrRsTbMP4HNru3YUbxP-HO32l0mDBKf90tdoxHSd1-zBwo5yyWJdbvqdDgTMaQ", // Authorization token
 /**
  * Set up multiple Drives to be displayed; add multiples by format
  * [id]: It can be team folder id, subfolder id, or "root" (representing the root directory of personal disk);
